@@ -1,4 +1,4 @@
-package com.youpu.dowload_paper;
+package com.youpu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

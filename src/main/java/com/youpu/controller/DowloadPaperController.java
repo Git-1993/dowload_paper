@@ -17,15 +17,10 @@ public class DowloadPaperController {
     private DowloadService dowloadService;
     @RequestMapping(value = "/dowload/**" ,method = RequestMethod.GET)
     public String dowloadPaper(HttpServletRequest request){
-        //String url = extractPathFromPattern(request);
-        //String dowloadUrl = dowloadService.dowloadPaper("http://"+url);
-        return "123";
+        String url = extractPathFromPattern(request);
+        String objectKey = dowloadService.dowloadPaper("http://"+url);
+        return objectKey;
     }
-    @RequestMapping(value = "/test/{num}" ,method = RequestMethod.GET)
-    public String test(@PathVariable("num") String num){
-        return num;
-    }
-
     //    把指定URL后的字符串全部截断当成参数
     //    这么做是为了防止URL中包含中文或者特殊字符（/等）时，匹配不了的问题
     private static String extractPathFromPattern(
