@@ -63,10 +63,12 @@ public class DowloadServiceImpl implements DowloadService {
             // 这里可以删除本地图片 略去
             DeleteFileUtil.delAllFile("D:\\imgs");
             //删除临时html
-            DeleteFileUtil.delAllFile("D:\\tt.html");
-
+            File file = new File("D:\\tt.html");
+            file.delete();
             //生成的word文件上传到Oss服务器
             OssUtil.upload(objectKey,"D:\\ww.doc");
+            File file2 = new File("D:\\ww.doc");
+            file2.delete();
             imgIndex = 1;
             imgMap.clear();
         } catch (IOException e) {
