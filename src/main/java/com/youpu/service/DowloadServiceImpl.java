@@ -23,10 +23,6 @@ public class DowloadServiceImpl implements DowloadService {
         int imgIndex = 1;
         Map<String, String> imgMap = new HashMap<String, String>(); //存放图片标识符及物理路径  {"image_1","D:\img.png"};
         try {
-            //Document document = Jsoup.parse(html);
-            //Document document = Jsoup.connect("http://example.com/").get();
-            //File input = new File("C:\\Users\\5agame\\Documents\\Tencent Files\\670521186\\FileRecv\\index(1).html");
-            //Document document = Jsoup.parse(input, "UTF-8", "");
             Document document = Jsoup.connect(url).timeout(60000).get();
             Elements elements = document.select("img");
 
