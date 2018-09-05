@@ -23,7 +23,7 @@ public class DowloadPaperController {
     }
 
     //    把指定URL后的字符串全部截断当成参数
-//    这么做是为了防止URL中包含中文或者特殊字符（/等）时，匹配不了的问题
+    //    这么做是为了防止URL中包含中文或者特殊字符（/等）时，匹配不了的问题
     private static String extractPathFromPattern(
             final HttpServletRequest request)
     {

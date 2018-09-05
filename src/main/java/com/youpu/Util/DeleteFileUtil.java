@@ -12,7 +12,7 @@ public class DeleteFileUtil {
     }
     //删除指定文件夹下的所有文件
     //param path 文件夹绝对完整路径
-    private static boolean delAllFile(String path) {
+    public static boolean delAllFile(String path) {
         boolean flag = false;
         File file = new File(path);
         if(!file.exists()){

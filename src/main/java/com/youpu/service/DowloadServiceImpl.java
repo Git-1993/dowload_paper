@@ -1,7 +1,9 @@
 package com.youpu.service;
 
 
+import com.youpu.Util.DeleteFileUtil;
 import com.youpu.Util.MSOfficeGeneratorUtils;
+import com.youpu.Util.OssUtil;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -17,7 +19,7 @@ import java.util.Map;
 
 @Service
 public class DowloadServiceImpl implements DowloadService {
-
+    String objectKey = "word_paper";
     public String dowloadPaper(String url) {
         MSOfficeGeneratorUtils officeUtils = new MSOfficeGeneratorUtils(false); // 将生成过程设置为不可见
         int imgIndex = 1;
@@ -59,15 +61,19 @@ public class DowloadServiceImpl implements DowloadService {
             officeUtils.quit(); // 退出Office Word程序
 
             // 这里可以删除本地图片 略去
+            DeleteFileUtil.delAllFile("D:\\imgs");
+            //删除临时html
+            DeleteFileUtil.delAllFile("D:\\tt.html");
 
+            //生成的word文件上传到Oss服务器
+            OssUtil.upload(objectKey,"D:\\ww.doc");
             imgIndex = 1;
             imgMap.clear();
-
         } catch (IOException e) {
             e.printStackTrace();
         }
-        //返回试卷下载链接
-        return "123";
+        //返回OSS中的objectName
+        return objectKey;
     }
 
 
