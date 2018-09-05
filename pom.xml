@@ -74,32 +74,27 @@
             <artifactId>fastjson</artifactId>
             <version>1.1.41</version>
         </dependency>
-        <!-- 热部署模块
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-devtools</artifactId>
-            <optional>true</optional> &lt;!&ndash; 这个需要为 true 热部署才有效 &ndash;&gt;
-        </dependency>-->
+            <optional>true</optional> <!-- 这个需要为 true 热部署才有效 -->
+        </dependency>
 
-        <!-- CXF webservice
-        <dependency>
+        <!--<dependency>
             <groupId>org.apache.cxf</groupId>
             <artifactId>cxf-spring-boot-starter-jaxws</artifactId>
             <version>3.1.11</version>
         </dependency>-->
-        <!-- CXF webservice -->
 
-        <!--<dependency>
+        <dependency>
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
             <version>2.11.0</version>
         </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web-services</artifactId>
-            <version>1.5.2.RELEASE</version>
-        </dependency>-->
+        </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.cxf/cxf-rt-frontend-jaxws -->
         <dependency>
             <groupId>org.apache.cxf</groupId>
