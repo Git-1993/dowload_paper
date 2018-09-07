@@ -27,7 +27,6 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
         </dependency>
 
         <!-- Junit -->
@@ -69,11 +68,6 @@
             <version>4.5.4</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>fastjson</artifactId>
-            <version>1.1.41</version>
-        </dependency>
         <!-- 热部署模块 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -113,7 +107,19 @@
             <artifactId>aliyun-openservices</artifactId>
             <version>1.2.3</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.freemarker/freemarker -->
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.16</version>
+        </dependency>
 
+        <dependency>
+            <groupId>net.sf.json-lib</groupId>
+            <artifactId>json-lib</artifactId>
+            <version>2.4</version>
+            <classifier>jdk15</classifier>
+        </dependency>
     </dependencies>
 
 </project>
