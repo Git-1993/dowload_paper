@@ -1,0 +1,140 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html, body {
+            /*height: 100%;*/
+        }
+
+        .paddingTop {
+            padding-top: 20px;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        .wrap {
+            width: 100%;
+            padding: 20px 100px;
+            /*height: 100%;*/
+            /*background-color: gray;*/
+            /*display: flex;*/
+        }
+
+        .wrap > div:nth-child(2n+1) {
+            /*width: 50%;*/
+            /*float: left;*/
+            /*background-color: yellow;*/
+        }
+
+        .wrap > div:nth-child(2n) {
+            /*width: 50%;*/
+            /*float: right;*/
+            /*background-color: #00cc00;*/
+        }
+
+        .wrap > div {
+            /*width: 50%;*/
+            /*float: right;*/
+            /*background-color: #00cc00;*/
+        }
+
+        .paperTitle {
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .paperType {
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        .info > span {
+            box-sizing: border-box;
+            border-bottom: 1px solid black;
+        }
+
+        .itemInfo {
+            width: 400px;
+            margin: auto;
+            table-layout: fixed;
+            border-collapse: collapse;
+        }
+
+        .content {
+            padding-top: 50px;
+        }
+
+        .itemOption {
+            padding-left: 2em;
+        }
+
+        .warning {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+<div class="wrap">
+    <div class="paperTitle paddingTop center">{{head}}</div>
+    <div class="paperType paddingTop center">{{}}}</div>
+    <div class="info paddingTop center">
+        学校:<span
+            class="schoolName">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        姓名:<span
+            class="studentName">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        班级:<span class="className">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        考号:<span
+            class="testNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    </div>
+    <div class="itemInfoWrap paddingTop center">
+        <table border="1" class="itemInfo">
+            <tbody>
+            <tr>
+                <td>题号</td>
+                <td>一</td>
+                <td>二</td>
+                <td>三</td>
+                <td>总分</td>
+            </tr>
+            <tr>
+                <td>得分</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="warning">
+        <p>注意事项:</p>
+        <p>1. 答题前填写好自己的姓名、班级、考号等信息</p>
+        <p>2. 请将答案正确填写在答题卡上</p>
+    </div>
+    < class="page1">
+        <#list resultlist as result>
+        <div class="paddingTop">${result.num}
+            <span>${result.text}</span>
+        </div>
+        <div class="itemOption"><span>A、 <span></span></span></div>
+        <div class="itemOption"><span>B、 <span>能揭示原子具有核式结构的事件是氢原子光谱的发现</span></span></div>
+        <div class="itemOption"><span>C、 <span>光电效应实验现象的解释使得光的波动说遇到了巨大的困难</span></span></div>
+        <div class="itemOption">
+            <span>D、
+                <span>质能方程E=mc<sup>2</sup>揭示了物体的能量和质量之间存在着密切的确定关系，提出这一方程的科学家是卢瑟福
+                </span>
+            </span>
+        </div>
+        </#list>
+    </div>
+</div>
+</body>
+</html>

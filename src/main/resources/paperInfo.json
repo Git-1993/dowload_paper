@@ -1,0 +1,801 @@
+{
+  "paperType": 1,
+  "recode": 0,
+  "answerTokinaga": 90,
+  "subject": 2,
+  "score": 70,
+  "difficulty": "0.27",
+  "phaseId": 2,
+  "materialid": 15,
+  "testedNum": 0,
+  "choosenum": 10,
+  "answernum": 12,
+  "allnum": 22,
+  "source": "物理组",
+  "testedPeople": 0,
+  "name": "2018年内蒙古呼和浩特市中考物理试卷",
+  "grade": 109,
+  "resultlist": [
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示的四种现象中，属于光的反射现象的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203917,
+          "rightanswer": 1,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/73e11f340bc04241938be25e666286ea.png\"><\/P><P>山在水中的倒影<\/P>"
+        },
+        {
+          "id": 2203918,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/954df5768e5d41b38308694170132837.png\"><\/P><P>影子的形成<\/P>"
+        },
+        {
+          "id": 2203919,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/af5b928d7cde4662b55d7d780e2122ee.png\"><\/P><P>雨后的彩虹<\/P>"
+        },
+        {
+          "id": 2203920,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/5c770ba662994bb28563db4d7271bbbc.png\"><\/P><P>钢勺好像在水面处折断<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.10",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）光在同种、均匀、透明介质中沿直线传播，产生的现象有小孔成像、激光准直、影子的形成、日食和月食等；<\/P><P>（2）光线传播到两种介质的表面上时会发生光的反射现象，例如水面上出现岸上物体的倒影、平面镜成像、玻璃等光滑物体反光都是光的反射形成的；<\/P><P>（3）光线在同种不均匀介质中传播或者从一种介质进入另一种介质时，就会出现光的折射现象，例如水池底变浅、水中筷子变弯、海市蜃楼、凸透镜成像等都是光的折射形成的。<\/P>",
+      "pointNameList": [
+        "光的反射"
+      ],
+      "id": 759640,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>A、山在水中的倒影，属于平面镜成像，是由于光的反射形成的，故A正确。<\/P><P>B、影子的形成说明光是沿直线传播的，故B错误；<\/P><P>C、雨过天晴时，常在天空出现彩虹，这是太阳光通过悬浮在空气中细小的水珠折射而成的，白光经水珠折射以后，分成各种彩色光，这种现象叫做光的色散现象，所以说雨后的天空出现彩虹是由光的色散形成的。故C错误；<\/P><P>D、从水中钢勺上反射的光从水斜射入空气中时，发生折射，折射光线远离法线，当人逆着折射光线的方向看时，看到的是钢勺的虚像，比实际位置偏高，所以感觉钢勺被折断了，故D错误；<\/P><P>故选：A。<\/P>",
+      "num": "1",
+      "questionNum": 1,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题通过几个日常生活中的现象考查了对光的折射、光的直线传播、光的反射的理解，在学习过程中要善于利用所学知识解释有关现象。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）在试管中放少量碘，塞紧盖子放入热水中。当固态碘变为紫色的碘蒸气并充满试管后，将试管从热水中取出，放入凉水中，碘蒸气又会变为固态碘附着在试管内壁上，关于物质碘的物态变化过程，下列说法正确的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203921,
+          "rightanswer": 0,
+          "answertext": "<P>先放热升华后吸热凝华<\/P>"
+        },
+        {
+          "id": 2203922,
+          "rightanswer": 1,
+          "answertext": "<P>先吸热升华后放热凝华<\/P>"
+        },
+        {
+          "id": 2203923,
+          "rightanswer": 0,
+          "answertext": "<P>先放热熔化后吸热凝固<\/P>"
+        },
+        {
+          "id": 2203924,
+          "rightanswer": 0,
+          "answertext": "<P>先吸热熔化后放热凝固<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.12",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>物体由固态直接变为气态叫升华，升华吸热；物体由气态直接变为固态叫凝华，凝华放热。<\/P>",
+      "pointNameList": [
+        "升华和凝华的定义和特点"
+      ],
+      "id": 759641,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：碘由固态变为碘蒸气，是升华现象，需要吸收热量；碘蒸气遇到较冷的玻璃板会放出热量直接变成固态的碘，这是凝华现象，故B正确。<\/P><P>故选：B。<\/P>",
+      "num": "2",
+      "questionNum": 2,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>分析生活中的热现象属于哪种物态变化，关键要看清物态变化前后，物质各处于什么状态；另外对六种物态变化的吸热和放热情况也要有清晰的认识。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示，关于电磁现象，下列说法正确的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203925,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/143deebaa2fa49f9bf2cafd16a445e94.png\"><\/P><P>如图，把小磁针放在地理赤道附近，小磁针静止时磁针N极指向地理南极附近<\/P>"
+        },
+        {
+          "id": 2203926,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/dff038b77ada47b18e6c342c54b018de.png\"><\/P><P>如图，通电线圈在磁场作用下转动，机械能转化为电能<\/P>"
+        },
+        {
+          "id": 2203927,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/69f7d39b819f45c38abdd06a243c3749.png\"><\/P><P>如图，利用“电生磁”将铁钉磁化，利用安培右手定则可判定铁钉上端为N极<\/P>"
+        },
+        {
+          "id": 2203928,
+          "rightanswer": 1,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/f87eb1105f34477786a81045ca9498fb.png\"><\/P><P>如图，当用力让线圈发生转动时，电流表就有电流通过，工作原理是法拉第电磁感应现象<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.15",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）地球的周围存在着磁场，地磁北极在地理的南极附近，地磁南极在地理北极附近，这就是地磁场；<\/P><P>（2）通电线圈在磁场力的作用下转动，消耗电能得到机械能；<\/P><P>（3）电磁铁是利用电流的磁效应，安培定则：用右手握住螺线管，四指指向电流的方向，大拇指所指的就是N极；<\/P><P>（4）发电机是根据电磁感应现象制成的。<\/P>",
+      "pointNameList": [
+        "地磁场"
+      ],
+      "id": 759642,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：A、在地理赤道附近，悬挂起来的小磁针静止时，小磁针的N极指向地理的北极附近，故A错误；<\/P><P>B、如果通电线圈在磁场力的作用下转动，将电能转化为线圈的机械能，故B错误；<\/P><P>C、利用“电生磁”将铁钉磁化，据安培定则可知，该螺线管的下方是N极，上方是S极，故C错误。<\/P><P>D、当用力让线圈发生转动时，电流表就有电流通过是发电机，发电机的工作原理是法拉第发现的电磁感应现象，故D正确。<\/P><P>故选：D。<\/P>",
+      "num": "3",
+      "questionNum": 3,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题考查地磁场，电磁场，发电机和电动机原理，是一道综合题。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）下列估测数据中，最不符合实际的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203929,
+          "rightanswer": 0,
+          "answertext": "<P>人散步时的速度约为lm/s<\/P>"
+        },
+        {
+          "id": 2203930,
+          "rightanswer": 0,
+          "answertext": "<P>一个普通成年人身体的体积约为60dm<SUP>3<\/SUP><\/P>"
+        },
+        {
+          "id": 2203931,
+          "rightanswer": 0,
+          "answertext": "<P>我国正在研制的新一代“蛟龙号”探测器，目标探测深度是1.1×10<SUP>4<\/SUP>m<\/P>"
+        },
+        {
+          "id": 2203932,
+          "rightanswer": 1,
+          "answertext": "<P>一本人教版初三物理教科书的重力约为20N<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.18",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>首先要对选项中涉及的几种物理量有个初步的了解，对于选项中的单位，可根据需要进行相应的换算或转换，排除与生活实际相差较远的选项，找出符合生活实际的答案。<\/P>",
+      "pointNameList": [
+        "长度的估测"
+      ],
+      "id": 759643,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>A、人正常步行的速度约为1.1m/s，人散步时的速度略小，在1m/s左右。此选项符合实际。<\/P><P>B、一个普通成年人的质量为60kg，密度约为1.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>，根据ρ=<img src=\"http://img2.51youpu.com/Public2/pic/7b21a1e90f174d0783d52c4eaa102694.png\">可得，体积约为V=<img src=\"http://img2.51youpu.com/Public2/pic/48af587b3f894a68bb4266e87fc83fed.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/d3e9a12a65d240ea890b403e402c4e7e.png\">=0.06m<SUP>3<\/SUP>=60dm<SUP>3<\/SUP>，此选项符合实际。<\/P><P>C、我国正在研制的新一代“蛟龙号”探测器，目标探测深度是1.1×10<SUP>4<\/SUP>m．此选项符合实际。<\/P><P>D、物理课本的质量在300g=0.3kg左右，受到的重力在G=mg=0.3kg×10N/kg=3N左右。此选项不符合实际。<\/P><P>故选：D。<\/P>",
+      "num": "4",
+      "questionNum": 4,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题考查对生活中常见物理量的估测，结合对生活中物理量的了解和对物理单位的认识，找出符合实际的选项即可。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示，一铁块吸附在竖直放置的足够长的磁性平板上，在竖直向上拉力F的作用下，铁块竖直向上做匀速直线运动。下列说法正确的是（　　）<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/28818bacb0994c4cb872de34acdd953f.png\"><\/P>",
+      "answers": [
+        {
+          "id": 2203933,
+          "rightanswer": 0,
+          "answertext": "<P>磁性平板对铁块的吸引力和铁块对磁性平板的吸引力是一对平衡力<\/P>"
+        },
+        {
+          "id": 2203934,
+          "rightanswer": 0,
+          "answertext": "<P>拉力和重力是一对相互作用力<\/P>"
+        },
+        {
+          "id": 2203935,
+          "rightanswer": 1,
+          "answertext": "<P>若一切力突然消失，铁块会一直向上做匀速直线运动<\/P>"
+        },
+        {
+          "id": 2203936,
+          "rightanswer": 0,
+          "answertext": "<P>铁块受到的滑动摩擦力方向竖直向上<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.20",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）平衡力的条件：大小相等、方向相反、作用在同一个物体上，作用在同一条直线上。<\/P><P>（2）相互作用力的条件：大小相等、方向相反、作用在两个物体上，作用在同一条直线上。<\/P><P>（3）根据牛顿定律进行分析，即物体在不受任何外力时，总保持静止状态或匀速直线运动状态。<\/P><P>（4）铁块受到的滑动摩擦力方向竖直向上。<\/P>",
+      "pointNameList": [
+        "平衡力和相互作用力的区分"
+      ],
+      "id": 759644,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：A、磁性平板对铁块的吸引力和铁块对磁性平板的吸引力是分别作用在不同物体上的两个力，所以不是一对平衡力。故A错误；<\/P><P>B、拉力和重力是作用在同一个物体上的两个力，所以不是一对相互作用力。故B错误；<\/P><P>C、根据牛顿第一定律可知，物体不受外力作用时，原来静止的物体将永远保持静止状态，原来运动的物体将永远做匀速直线运动，速度的大小和方向都不改变；铁块原来是向上运动的，当一切外力突然消失，铁块仍然保持原来的运动状态，所以铁块将一直向上做匀速直线运动，故C正确；<\/P><P>D、铁块竖直向上运动，所以受到的滑动摩擦力方向竖直向下。故D错误。<\/P><P>故选：C。<\/P>",
+      "num": "5",
+      "questionNum": 5,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题考查了对物体的受力分析及平衡力与相互作用力的区别，同时考查牛顿第一定律和摩擦力的方向，关键是正确理解平衡力和相互作用力的区别：平衡力是作用在同一物体上的两个力；相互作用力是作用在两个物体上的力。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）关于电学知识，下列法正确的（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203937,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/7ef14dcc1f164a58a3f901b41a3560f2.png\"><\/P><P>如图，表盘上的“3000r/kW•h”表示电能表转盘转过3000圈，消耗电能3600kW<\/P>"
+        },
+        {
+          "id": 2203938,
+          "rightanswer": 1,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/7d9851551ecd45d3a2a862a8e3b21b8d.png\"><\/P><P>如图，在家庭电路中，开关应接在火线和用电器之间<\/P>"
+        },
+        {
+          "id": 2203939,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/571963980a77430f93583bd70aeb6578.png\"><\/P><P>如图，在“伏安法测小灯泡电阻”的实验中，为了减少误差，应调节滑动变阻器在电路中的阻值，多次测量求平均值<\/P>"
+        },
+        {
+          "id": 2203940,
+          "rightanswer": 0,
+          "answertext": "<P><img src=\"http://img2.51youpu.com/Public2/pic/1348ee2133a149c08b2e0daeaa1e22d0.png\"><\/P><P>如图，实验表明：在电流相同、通电时间相同的情况下，电阻越小，这个电阻产生的热量越多<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.22",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）电能表是测量电路消耗电能（电功）的仪表，其中“3000r/kW•h”表示每消耗1kW•h的电能，电能表的转盘转3000转；<\/P><P>（2）在家庭电路中，为了有效的控制用电器，需要将开关和用电器串联，并且开关要接在火线和用电器之间，这样断开开关时，用电器上没有电，便于维修或换灯泡；<\/P><P>（3）灯丝电阻随温度的升高而增大；<\/P><P>（4）根据焦耳定律Q=I<SUP>2<\/SUP>Rt分析判断。<\/P>",
+      "pointNameList": [
+        "滑动变阻器的使用"
+      ],
+      "id": 759645,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>A、“3000r/kW•h”表示电能表的转盘转3000转，消耗电能1kW•h，故A错；<\/P><P>B、在家庭电路中，开关要接在火线和灯之间，这样断开开关时，灯没有电，便于维修或换灯泡，故B正确；<\/P><P>C、由于灯丝电阻随温度的升高而增大，在“伏安法测小灯泡电阻”的验中，调节滑动变阻器在电路中的阻值，多次测量求平均值无意义，故C错；<\/P><P>D、由Q=I<SUP>2<\/SUP>Rt可知在电流相同、通电时间相同的情况下，电阻越大，这个电阻产生的热量越多，故D错。<\/P><P>故选：B。<\/P>",
+      "num": "6",
+      "questionNum": 6,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题为电学综合题，考查了电能表参数的理解、开关的连接方法、灯丝电阻与温度的关系、焦耳定律，知识点较多，要求认真审题，易错题！<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示是小刚在中考体育测试中投掷铅球的过程示意图，铅球在b点离手，c点是铅球运动的最高点，d点是铅球运动的最低点，整个过程中，若不计空气阻力，下列说法错误的是（　　）<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/2019ae35d56a47a9ba579f73892584e8.png\"><\/P>",
+      "answers": [
+        {
+          "id": 2203941,
+          "rightanswer": 0,
+          "answertext": "<P>在a到d的过程中，铅球相对于地面是运动的<\/P>"
+        },
+        {
+          "id": 2203942,
+          "rightanswer": 1,
+          "answertext": "<P>在b到d的过程中，铅球的机械能先增加后减少<\/P>"
+        },
+        {
+          "id": 2203943,
+          "rightanswer": 0,
+          "answertext": "<P>在c到d的过程中，铅球的重力势能转化为动能<\/P>"
+        },
+        {
+          "id": 2203944,
+          "rightanswer": 0,
+          "answertext": "<P>在a到b的过程中，小刚对铅球做了功<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.25",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）研究物体的运动情况时，首先要选取一个物体作为标准，这个被选作标准的物体叫做参照物。研究对象的运动情况是怎样的，就看它与参照物的相对位置是否变化；<\/P><P>（2）（3）影响动能的影响因素是物体的质量和物体运动的速度，影响重力势能的因素是物体的质量和物体的高度，其中动能和势能统称为机械能；<\/P><P>（4）此题要依据做功的两个条件（一是物体要受力的作用，二是物体要在力的方向上通过一定的距离），看在不同阶段是否具备这两个条件，若具备就做功，否则不做功。<\/P>",
+      "pointNameList": [
+        "运动和静止的相对性"
+      ],
+      "id": 759646,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：A、在a到d的过程中，铅球相对于地面有位置的变化，铅球是运动的，故A正确；<\/P><P>B、在b到d的过程中，由于不计空气阻力，所以铅球的机械能不变，故B错误；<\/P><P>C、在c到d的过程中，铅球的质量不变，高度减小，速度增大，故重力势能减小，动能增大，铅球的重力势能转化为动能，故C正确；<\/P><P>D、在a到b的过程中，运动员对铅球有一个推力的作用且铅球在推力作用下移动了一段距离，所以在这个阶段，运动员对铅球做了功；铅球离开手，由于惯性继续运动，所以手就不做功了，故D正确；<\/P><P>故选：B。<\/P>",
+      "num": "7",
+      "questionNum": 7,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>该题考查了是否做功的判断、运动与静止的相对性、机械能的变化、重力势能大小影响因素和运动状态改变的理解，是一道综合题。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）早在19世纪20年代，德国物理学家欧姆就对导体中电流，导体两端电压的关系进行了大量的实验研究，发现对于大多数导体而言，导体中电流跟导体两端电压成正比，并于1827年在《动电电路的数学研究》一书中，把他的实验规律总结成如下公式：S=γ•E（S表示导体中的电流；E表示导体两电压；γ表示导体对电流的传导率，简称电导率）。关于这一规律，下列说法正确的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203945,
+          "rightanswer": 0,
+          "answertext": "<P>对于不同的导体，给它们两端加相同的电压，通过的电流与导体的电导率成反比<\/P>"
+        },
+        {
+          "id": 2203946,
+          "rightanswer": 0,
+          "answertext": "<P>对于不同的导体，如果通过的电流相同，电压与导体的电导率成正比<\/P>"
+        },
+        {
+          "id": 2203947,
+          "rightanswer": 1,
+          "answertext": "<P>电导率反映的是导体对电流的导通作用<\/P>"
+        },
+        {
+          "id": 2203948,
+          "rightanswer": 0,
+          "answertext": "<P>电导率的大小是由加在导体两端电压与通过导体的电流决定的<\/P>"
+        }
+      ],
+      "score": "2",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.28",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>欧姆定律内容：导体中的电流跟导体两端的电压成正比，跟导体的电阻成反比；导体电阻是导体本身的一种性，与电压和电流无关；<\/P>",
+      "pointNameList": [
+        "欧姆定律的应用"
+      ],
+      "id": 759647,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>由题知，导体中的电流S与导体两电压E成正比，即S=γ•E，γ表示电导率；<\/P><P>A、由S=γ•E可知，在电压相同时，通过的电流与导体的电导率成正比，故A错误；<\/P><P>B、电压是形成电流的原因，所以电压与导体的电导率无关，故B错误；<\/P><P>C、由S=γ•E知，电压E一定时，通过的电流S与电导率γ成正比，所以电导率反映的是导体对电流的导通能力，故C正确；<\/P><P>D、电导率是导体对电流的传导率，电导率是导体本身的一种性质，与加在导体两端电压与通过导体的电流无关，故D错误。<\/P><P>故选：C。<\/P>",
+      "num": "8",
+      "questionNum": 8,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题是对欧姆定律研究历史和实验规律的认识和理解，理解欧姆定律并能结合实验规律的公式是关键。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）关于物理学知识，下列说法正确的是（　　）<\/P>",
+      "answers": [
+        {
+          "id": 2203949,
+          "rightanswer": 1,
+          "answertext": "<P>大气压是大气产生的压强，大气压随着海拔高度的升高而降低<\/P>"
+        },
+        {
+          "id": 2203950,
+          "rightanswer": 0,
+          "answertext": "<P>相距较近的两艘轮船，平行同向快速行驶时，容易发生碰撞事故，其原因是流体流速越快，流体压强越大<\/P>"
+        },
+        {
+          "id": 2203951,
+          "rightanswer": 0,
+          "answertext": "<P>电流通过用电器时，其消耗的电能可以通过关系式UIt求得，但不能直接用关系式I<SUP>2<\/SUP>Rt进行求解<\/P>"
+        },
+        {
+          "id": 2203952,
+          "rightanswer": 0,
+          "answertext": "<P>大多数汽车的核心部件是内燃机。四冲程内燃机工作时，主要靠压缩冲程获得动力<\/P>"
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 1,
+      "difficulty": "0.30",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）大气压随海拔高度的增加而减小。<\/P><P>（2）依据流体压强与流速的关系，两物体之间的空气流动速度增大，压强减小。<\/P><P>（3）纯电阻电路：电功：W=UIt，电热：Q=I<SUP>2<\/SUP>Rt，电热和电功的关系W=Q。<\/P><P>（4）内燃机的四个冲程中有两个冲程发生能量转化，一是压缩冲程中机械能转化为内能；二是做功冲程中内能转化为机械能。<\/P>",
+      "pointNameList": [
+        "大气压强与高度的关系"
+      ],
+      "id": 759648,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：A、大气压是大气产生的压强，大气压随着海拔高度的升高而降低。故A正确；<\/P><P>B、相距较近的两艘轮船，平行同向快速行驶时，容易发生碰撞事故，其原因是流体流速越快，流体压强越小。故B错误。<\/P><P>C、电流通过用电器时，其消耗的电能可以通过关系式UIt求得，对于纯电阻用电器可以直接用关系I<SUP>2<\/SUP>Rt进行求解。故C错误。<\/P><P>D、在四个冲程中，使汽车获得动力的冲程是做功冲程。故D错误。<\/P><P>故选：A。<\/P>",
+      "num": "9",
+      "questionNum": 9,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题考查了大气压与高度的关系、流体压强与流速的关系、内燃机中能量的转化以及电功和电热的关系等知识，内容较多，要分清。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示，其对应判断正确的是（　　）<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/ba90650300df4338a099f79b91011ada.png\"><\/P>(多选题)",
+      "answers": [
+        {
+          "id": 2203953,
+          "rightanswer": 1,
+          "answertext": "<P>甲图，用恒定不变的拉力F，沿斜面匀速向上拉木块。速度v随时间t的变化规律可用图象①表示<\/P>"
+        },
+        {
+          "id": 2203954,
+          "rightanswer": 1,
+          "answertext": "<P>乙图，探究“杠杆的平衡条件”，在阻力与阻力臂一定时，测出多组动力臂L<SUB>1<\/SUB>和动力F<SUB>1<\/SUB>的数据，F<SUB>1<\/SUB>﹣L<SUB>1<\/SUB>的关系可用图象②表示<\/P>"
+        },
+        {
+          "id": 2203955,
+          "rightanswer": 0,
+          "answertext": "<P>丙图，往量杯中匀速注水直至注满。此过程中，量杯底部受到水的压强p随时间t变化的关系可用图象③表示<\/P>"
+        },
+        {
+          "id": 2203956,
+          "rightanswer": 1,
+          "answertext": "<P>丁图，弹簧测力计下挂一物体，将物体从盛有适量水的烧杯上方离水面某一高度处缓缓下降，然后将其逐渐浸入水中。弹簧测力计示数F与物体下降高度h之间的关系可用图象④表示<\/P>"
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 2,
+      "difficulty": "0.30",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）匀速直线运动在速度和时间图象上是一条平行于时间轴的图象；<\/P><P>（2）根据杠杆的平衡条件分析解答；<\/P><P>（3）液体内部压强与液体的深度和液体的密度有关，所以据题目中量杯的形状分析判断即可解决；<\/P><P>（4）弹簧测力计示数F在入水前不变，逐渐入水时弹簧测力计示数逐渐减小，物体完全入水后，弹簧测力计的读数不变。<\/P>",
+      "pointNameList": [
+        "速度与物体运动"
+      ],
+      "id": 759649,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>A、用恒定不变的拉力F，沿斜面匀速向上拉木块，木块做匀速直线运动，速度v是定值，不随时间变化，在v﹣t图象上是一条平行于时间轴的直线，图象①正确，故A正确；<\/P><P>B、根据杠杆的平衡条件F<SUB>1<\/SUB>L<SUB>1<\/SUB>=F<SUB>2<\/SUB>L<SUB>2<\/SUB>知，在阻力与阻力臂一定时，动力F<SUB>1<\/SUB>和动力臂L<SUB>1<\/SUB>成反比，图象②正确，故B正确；<\/P><P>C、在向量杯中匀速注水时，相同时间倒入水的质量相同；据图可知，量杯的形状是上宽下窄，所以水在量杯中增加的高度越来越小，则根据p=ρgh可知，量杯底部所受水的压强的增加量也会越来越小，图象③不正确，故C错误；<\/P><P>D、将物体从离水面某一高度处缓缓下降，在入水前弹簧测力计的示数F不变（等于物重）；逐渐入水时，因物体所受浮力增大，则弹簧测力计示数逐渐减小；物体完全入水后，浮力不变，则弹簧测力计的示数不变，图象④正确，故D正确。<\/P><P>故选：ABD。<\/P>",
+      "num": "10",
+      "questionNum": 10,
+      "source": "",
+      "serialNum": null,
+      "explain": "",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题考查了图象问题，掌握两坐标轴之间的关系是解题的关键。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "实验能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示是“探究平面镜成像特点”的实验装置图。<\/P><P>（1）选择用玻璃板代替平面镜进行实验，主要目的是为了<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“像更清晰”或“确定像的位置”）；<\/P><P>（2）实验中，在竖立的玻璃板前点燃蜡烛A．拿未点燃的蜡烛B竖直在玻璃板后面移动，人眼一直在玻璃板的前侧观察，直至蜡烛B与蜡烛A的像完全重合，这种确定像与物大小的方法是<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“等效替代法”或“控制变量法”）；<\/P><P>（3）在探究实验的过程中，当蜡烛A远离玻璃板时，它的像的大小将<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“不变”或“变小”）。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/0fa5b6540d1c49e99f11cef0e8845af5.png\"><\/P>",
+      "answers": [
+        {
+          "id": 2203957,
+          "rightanswer": 1,
+          "answertext": ""
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 3,
+      "difficulty": "0.15",
+      "thoughtNameList": [
+        "等效转换思想"
+      ],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）用玻璃板代替平面镜，同时能看到镜前物体的像，又能看到物体的像，便于确定像的位置，便于比较物像大小关系。<\/P><P>（2）等效替代法是在保证某种效果相同的前提下，将实际的、复杂的物理问题和物理过程转化为等效的、简单的、易于研究的物理问题和物理过程来研究和处理的方法，等效替代法是初中物理中常用的探索问题和分析解决问题的科学方法之一；<\/P><P>（3）平面镜成像特点：物像等距，物像等大。<\/P>",
+      "pointNameList": [
+        "平面镜成像的特点、原理、现象及其实验方案"
+      ],
+      "id": 759650,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）选择玻璃板代替平面镜便于确定像的位置，便于比较物像大小关系。<\/P><P>（2）在竖立的玻璃板前点燃蜡烛A，拿未点燃的蜡烛B竖直在玻璃板后面移动，人眼一直在玻璃板的前侧（A侧）观察，直至它与蜡烛A的像完全重合，这种确定像与物大小关系的方法是等效替代法；<\/P><P>（3）由平面镜成像特点之一：物像等大可知，将蜡烛不管是远离玻璃板还是靠近玻璃板时，蜡烛所成像的大小不变。<\/P><P>故答案为：（1）确定像的位置；（2）等效替代法；（3）不变。<\/P>",
+      "num": "11",
+      "questionNum": 11,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）选择玻璃板代替平面镜便于确定像的位置，便于比较物像大小关系。<\/P><P>（2）在竖立的玻璃板前点燃蜡烛A，拿未点燃的蜡烛B竖直在玻璃板后面移动，人眼一直在玻璃板的前侧（A侧）观察，直至它与蜡烛A的像完全重合，这种确定像与物大小关系的方法是等效替代法；<\/P><P>（3）由平面镜成像特点之一：物像等大可知，将蜡烛不管是远离玻璃板还是靠近玻璃板时，蜡烛所成像的大小不变。<\/P><P>故答案为：（1）确定像的位置；（2）等效替代法；（3）不变。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题主要考查了平面镜成像特点的实验及其应用。这是光学中的一个重点，也是近几年来中考经常出现的题型，要求学生熟练掌握，并学会灵活运用。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "实验能力"
+      ],
+      "text": "<P>（2018•呼和浩特）为了比较“水和食用油的吸热能力”，某同学选取相同质量的水和食用油各200g，用如图甲所示两组相同的器材进行了实验，水和食用油相同时间吸热相同。实验数据记录如下：<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/2087801b6e304d88844d7660809a0292.png\"><\/P><TABLE class=\"defaultTableStyle\"><TR><TD><P>物质<\/P><\/TD><TD><P>初始温度/℃<\/P><\/TD><TD><P>加热时间/min<\/P><\/TD><TD><P>最后温度/℃<\/P><\/TD><\/TR><TR><TD><P>水<\/P><\/TD><TD><P>20<\/P><\/TD><TD><P>6<\/P><\/TD><TD><P>45<\/P><\/TD><\/TR><TR><TD><P>食用油<\/P><\/TD><TD><P>20<\/P><\/TD><TD><P>6<\/P><\/TD><TD><P>70<\/P><\/TD><\/TR><\/TABLE><P>（1）请在图乙所示的坐标图上，作出两组实验数据的“温度一时间”图象：<\/P><P>（2）由实验数据分析可知，<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>的吸热能力强（选填“水”或“食用油”）；<\/P><P>（3）若加热到相同的温度后停止加热，冷却相同时间后<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>的末温高（填“水”或“食用油”）。<\/P>",
+      "answers": [
+        {
+          "id": 2203958,
+          "rightanswer": 1,
+          "answertext": ""
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 3,
+      "difficulty": "0.22",
+      "thoughtNameList": [
+        "控制变量思想"
+      ],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）根据描点法作图；<\/P><P>（2）我们使用相同的加热器通过加热时间的长短来比较吸热多少，这种方法叫转化法。<\/P><P>比较物质吸热能力的2种方法：<\/P><P>①使相同质量的不同物质升高相同的温度，比较吸收的热量（即比较加热时间），吸收热量多的吸热能力强<\/P><P>②使相同质量的不同物质吸收相同的热量（即加热相同的时间），比较温度的变化，温度变化小的吸热能力强；<\/P><P>（3）根据△t=<img src=\"http://img2.51youpu.com/Public2/pic/7ba0b647f21b46a7acb8d9bac34641f6.png\">分析。<\/P>",
+      "pointNameList": [
+        "探究比热容的实验"
+      ],
+      "id": 759651,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）根据表中数据，在坐标体系中找出对应的点，然后连接起来，如下所示（水的温度一时间”图象为黑色，食用油的为红色）：<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/4e9fa4a240ec4835bc4d93b1e664de15.png\"><\/P><P>（2）由实验数据分析可知，加热相同时间，水升温慢，根据比较吸热能力的第2种方法，水的吸热能力强；（3）因水的吸热能力强，即水的比热容大，根据△t=<img src=\"http://img2.51youpu.com/Public2/pic/f102d0d8b1c94985bf6ab4153c04e535.png\">，若加热到相同的温度后停止加热，冷却相同时间，放出的热量相同，根据△t=<img src=\"http://img2.51youpu.com/Public2/pic/8997405930dc4c25bdae5da607e5af77.png\">，水的温度降低的小，故水的末温高。<\/P><P>故答案为：（1）如上；（2）水；（3）水。<\/P>",
+      "num": "12",
+      "questionNum": 12,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）根据表中数据，在坐标体系中找出对应的点，然后连接起来，如下所示（水的温度一时间”图象为黑色，食用油的为红色）：<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/4e9fa4a240ec4835bc4d93b1e664de15.png\"><\/P><P>（2）由实验数据分析可知，加热相同时间，水升温慢，根据比较吸热能力的第2种方法，水的吸热能力强；（3）因水的吸热能力强，即水的比热容大，根据△t=<img src=\"http://img2.51youpu.com/Public2/pic/f102d0d8b1c94985bf6ab4153c04e535.png\">，若加热到相同的温度后停止加热，冷却相同时间，放出的热量相同，根据△t=<img src=\"http://img2.51youpu.com/Public2/pic/8997405930dc4c25bdae5da607e5af77.png\">，水的温度降低的小，故水的末温高。<\/P><P>故答案为：（1）如上；（2）水；（3）水。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题比较不同物质的吸热能力，考查控制变量法、转换法的应用和比较吸热能力的方法，为热学中的重要实验。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "实验能力"
+      ],
+      "text": "<P>（2018•呼和浩特）小涵同学利用如图所示的器材探究“液体内部压强的特点”<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/8ee07208df934021a9e8533ac056cb01.png\"><\/P><P>（1）压强计<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“属于”或“不属于”）连通器；<\/P><P>（2）当压强计的金属盒在空气中时，U形管两边的液面应当相平，而她所观察到如图甲所示的情景，调节的方法是<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“A“或“B”）<\/P><P>A．将此时右边支管中高出的液体倒出  B．取下软管重新安装<\/P><P>（3）调好后，将探头放入水中，并多次改变探头在水中的深度如图乙所小，同时比较每次的深度及相应的U形管左右两侧液面的高度差。这是为了探究<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>。<\/P>",
+      "answers": [
+        {
+          "id": 2203959,
+          "rightanswer": 1,
+          "answertext": ""
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 3,
+      "difficulty": "0.28",
+      "thoughtNameList": [
+        "控制变量思想"
+      ],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）测量液体压强的仪器叫压强计；上端开口，下端连通的容器叫连通器。<\/P><P>（2）只要取下软管，让U形管左端液面和大气相通，这样U形管两端的液面就是相平的；（3）液体内部压强大小通过U形管两侧液面高度差的大小来反映，这是转换法；液体压强和液体的密度、深度有关，实验中采用控制变量法来设计实验。<\/P>",
+      "pointNameList": [
+        "探究液体压强的特点实验"
+      ],
+      "id": 759652,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）这是测量液体压强的压强计；它的左端是密闭的，所以不是连通器。<\/P><P>（2）当压强计的橡皮膜没有受到压强时，U形管中液面应该就是相平的，若U形管中的液面出现了高度差，就说明软管中的气体压强大于大气压，在压力差的作用下，U形管中的液面出现高度差；要调节，只需要将软管取下，再重新安装，这样的话，U形管中两管上方的气体压强就是相等的（都等于大气压），当橡皮膜没有受到压强时，U形管中的液面就是相平的，故选B；<\/P><P>（3）实验中液体的密度不变，改变探头在水中的深度，研究的是液体内部压强与深度的关系。<\/P><P>故答案为：<\/P><P>（1）不属于；（2）B；（3）液体内部压强与深度的关系。<\/P>",
+      "num": "13",
+      "questionNum": 13,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）这是测量液体压强的压强计；它的左端是密闭的，所以不是连通器。<\/P><P>（2）当压强计的橡皮膜没有受到压强时，U形管中液面应该就是相平的，若U形管中的液面出现了高度差，就说明软管中的气体压强大于大气压，在压力差的作用下，U形管中的液面出现高度差；要调节，只需要将软管取下，再重新安装，这样的话，U形管中两管上方的气体压强就是相等的（都等于大气压），当橡皮膜没有受到压强时，U形管中的液面就是相平的，故选B；<\/P><P>（3）实验中液体的密度不变，改变探头在水中的深度，研究的是液体内部压强与深度的关系。<\/P><P>故答案为：<\/P><P>（1）不属于；（2）B；（3）液体内部压强与深度的关系。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>此题主要考查的是学生对液体压强的影响因素实验的理解和掌握以及液体压强的计算，要了解压强计的构造与原理，并能学会观察压强计来判断压强的大小，是解答本题的关键。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "作图能力",
+        "实验能力"
+      ],
+      "text": "<P>（2018•呼和浩特）小林同学在学习了“伏安法测电功率”的知识后，设计了一个定值电阻的功率能从“0到最大功率”连续变化的电路。电路如图甲所示：<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/886d52b85d4f4751ac296a3073e53e79.png\"><\/P><P>（1）实验前，开关应断开，滑片P移到<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>端（选填“a”或“b”）；<\/P><P>（2）请你按照他的设计，用笔划线代替导线将实物图乙连接完整（电压表选用0﹣3V档，导线不能交叉）<\/P>",
+      "answers": [
+        {
+          "id": 2203960,
+          "rightanswer": 1,
+          "answertext": ""
+        }
+      ],
+      "score": "3",
+      "spenttime": 100,
+      "qtype": 3,
+      "difficulty": "0.35",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）实验前，滑动变阻器的滑片应置于最大阻值处，同时还要注意实验中调节的要求，据此判断；<\/P><P>（2）对照电路图，可根据实验要求连接实物电路。<\/P>",
+      "pointNameList": [
+        "实物的电路连接"
+      ],
+      "id": 759653,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）读图可知，滑动变阻器的滑片在b端时，上端的电阻R被短路，其功率为零；当滑动变阻器再滑至a端时，变阻器与电阻R并联，且电阻R的两端电压达到电源电压，其功率最大。根据定值电阻的功率能从“0到最大功率”连续变化的要求，实验前，开关应断开，滑片P应移到b端。<\/P><P>（2）对照电路图可知，滑动变阻器下端的两个接线柱都应该接入电路，电压表选择小量程，与定值电阻并联，如图所示。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/3b8d0aaaf7e44f60acab5bd439bb902c.png\"><\/P><P>故答案为：（1）b；（2）见上图。<\/P>",
+      "num": "14",
+      "questionNum": 14,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）读图可知，滑动变阻器的滑片在b端时，上端的电阻R被短路，其功率为零；当滑动变阻器再滑至a端时，变阻器与电阻R并联，且电阻R的两端电压达到电源电压，其功率最大。根据定值电阻的功率能从“0到最大功率”连续变化的要求，实验前，开关应断开，滑片P应移到b端。<\/P><P>（2）对照电路图可知，滑动变阻器下端的两个接线柱都应该接入电路，电压表选择小量程，与定值电阻并联，如图所示。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/3b8d0aaaf7e44f60acab5bd439bb902c.png\"><\/P><P>故答案为：（1）b；（2）见上图。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题中滑动变阻器是整个接入电路的，通过滑片的滑动，调节与定值电阻的并联或串联部分，从而起到对定值电阻的调节作用，是我们应该特别注意的。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "解决问题的能力"
+      ],
+      "text": "<P>（2018•呼和浩特）一个彩色灯泡上标有“36V 7.2W“的字样（忽略温度对灯丝电阻的影响）<\/P><P>求：（1）该灯泡正常工作时的电流和灯丝的电阻；<\/P><P>（2）若接在220V的照明电路中使用，至少需要串联多少个这种灯泡才行。<\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.30",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）已知灯泡额定电压和额定功率，由P=UI计算灯泡正常发光电流，由I=<img src=\"http://img2.51youpu.com/Public2/pic/5e5716875f7c445e9b7c670cae44fce4.png\">计算灯丝电阻；<\/P><P>（2）根据串联电路的电压特点进行解答，即串联电路中总电压等于各分电压之和。<\/P>",
+      "pointNameList": [
+        "串联电路的电压规律"
+      ],
+      "id": 759654,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）由P=UI可得灯泡正常发光时的电流：I<SUB>L<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/c59d8fdb506f4e39bb36c28b53671d41.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/a0431f4d140c470f9f35f6a8cc5e89c8.png\">=0.2A，<\/P><P>由I=<img src=\"http://img2.51youpu.com/Public2/pic/ff23db2aa8c2424eac297a8761284a49.png\">可得灯丝电阻：R<SUB>L<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/ea699616f5ff49d6aa3798c182e14c6e.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/89fc5e0a7aa4479f80963d1f86d26cd0.png\">=180Ω；<\/P><P>（2）因串联电路中总电压等于各分电压之和，所以，要使小灯泡接在220V的电路中使用，串联小灯泡的个数：<\/P><P>n=<img src=\"http://img2.51youpu.com/Public2/pic/4b73b9b5d973419ca7f850cf147644c7.png\">≈6.11≈7个。<\/P><P>答：（1）该灯泡正常工作时的电流为0.2A，灯丝的电阻为180Ω；<\/P><P>（2）若接在220V的照明电路中使用，至少需要串联7个这种灯泡才行。<\/P>",
+      "num": "15",
+      "questionNum": 15,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）由P=UI可得灯泡正常发光时的电流：I<SUB>L<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/c59d8fdb506f4e39bb36c28b53671d41.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/a0431f4d140c470f9f35f6a8cc5e89c8.png\">=0.2A，<\/P><P>由I=<img src=\"http://img2.51youpu.com/Public2/pic/ff23db2aa8c2424eac297a8761284a49.png\">可得灯丝电阻：R<SUB>L<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/ea699616f5ff49d6aa3798c182e14c6e.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/89fc5e0a7aa4479f80963d1f86d26cd0.png\">=180Ω；<\/P><P>（2）因串联电路中总电压等于各分电压之和，所以，要使小灯泡接在220V的电路中使用，串联小灯泡的个数：<\/P><P>n=<img src=\"http://img2.51youpu.com/Public2/pic/4b73b9b5d973419ca7f850cf147644c7.png\">≈6.11≈7个。<\/P><P>答：（1）该灯泡正常工作时的电流为0.2A，灯丝的电阻为180Ω；<\/P><P>（2）若接在220V的照明电路中使用，至少需要串联7个这种灯泡才行。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了功率、欧姆定律公式的应用、串联的电路的电压特点，要注意数据的处理，小数应进一个，而不是舍去。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "解决问题的能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图所示，用甲、乙两种滑轮组，分别匀速竖直向上提升同一重物，从相同位置开始提升至同一高度处，求：<\/P><P>（1）若不计绳重，滑轮重及摩擦，两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比；<\/P><P>（2）若不计绳重及摩擦，重物质量为400g，动滑轮质量为100g，匀速拉动过程中甲、乙两装置的机械效率。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/3bb6b6886b6440b58b1b7a3be7088c22.png\"><\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.33",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）甲图，n<SUB>1<\/SUB>=2；乙图，n<SUB>2<\/SUB>=3，若不计绳重、滑轮重及摩擦，拉力F=<img src=\"http://img2.51youpu.com/Public2/pic/6407531fcead4b8d8344835d6aaf45de.png\">G，据此求两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比；<\/P><P>（2）利用G=mg求重物重力、动滑轮重力，因为不计绳重及摩擦时，滑轮组的机械效率η=<img src=\"http://img2.51youpu.com/Public2/pic/c7ad6e8f55bf41a395a2aa14e53e9504.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/53ad2cde9db84392b8e9654095f9e791.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/1dbca2dc71a94bb298ce8f8af057bf33.png\">，所以甲、乙两装置的机械效率相同，利用η=<img src=\"http://img2.51youpu.com/Public2/pic/386907bca48b4e6e94717dda1b6c512a.png\">计算。<\/P>",
+      "pointNameList": [
+        "滑轮（组）的机械效率"
+      ],
+      "id": 759655,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）由图知，甲图中，n<SUB>1<\/SUB>=2；乙图中，n<SUB>2<\/SUB>=3，<\/P><P>若不计绳重、滑轮重及摩擦，则拉力F=<img src=\"http://img2.51youpu.com/Public2/pic/eccdc4c48aaf428d8fc8d042d110b66b.png\">G，<\/P><P>两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比：<\/P><P>F<SUB>1<\/SUB>：F<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/2e59c7027c8d48529ab01d633a7c29e8.png\">G：<img src=\"http://img2.51youpu.com/Public2/pic/bb256adb54c54dfc90c295a7819ed968.png\">G=<img src=\"http://img2.51youpu.com/Public2/pic/20665a91e21e42b8a936616b62c6cb17.png\">：<img src=\"http://img2.51youpu.com/Public2/pic/692eec7a7031464ab0ac014ab76d6f4d.png\">=3：2；<\/P><P>（2）重物的重力：G=mg=0.4kg×10N/kg=4N，<\/P><P>动滑轮的重力：G<SUB>轮<\/SUB>=m<SUB>轮<\/SUB>g=0.1kg×10N/kg=1N，<\/P><P>不计绳重及摩擦时，滑轮组的机械效率η=<img src=\"http://img2.51youpu.com/Public2/pic/393fc69ae14b4cdc82c45f105949949c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/b9a6fd3ecdd240a78fbcdae220099959.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/dd29e1986c5d4499a970df719ee9f5e5.png\">，<\/P><P>由于两装置中物重和动滑轮重均相同，<\/P><P>所以甲、乙两装置的机械效率：<\/P><P>η<SUB>1<\/SUB>=η<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/b0a98d00a3d84631abfa1504aafa2f06.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/088b8d1aa8724c4ca40f25bf0dcadf2d.png\">×100%=80%。<\/P><P>答：（1）若不计绳重、滑轮重及摩擦，两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比为3：2；<\/P><P>（2）若不计绳重及摩擦，甲、乙两装置的机械效率都是80%。<\/P>",
+      "num": "16",
+      "questionNum": 16,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）由图知，甲图中，n<SUB>1<\/SUB>=2；乙图中，n<SUB>2<\/SUB>=3，<\/P><P>若不计绳重、滑轮重及摩擦，则拉力F=<img src=\"http://img2.51youpu.com/Public2/pic/eccdc4c48aaf428d8fc8d042d110b66b.png\">G，<\/P><P>两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比：<\/P><P>F<SUB>1<\/SUB>：F<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/2e59c7027c8d48529ab01d633a7c29e8.png\">G：<img src=\"http://img2.51youpu.com/Public2/pic/bb256adb54c54dfc90c295a7819ed968.png\">G=<img src=\"http://img2.51youpu.com/Public2/pic/20665a91e21e42b8a936616b62c6cb17.png\">：<img src=\"http://img2.51youpu.com/Public2/pic/692eec7a7031464ab0ac014ab76d6f4d.png\">=3：2；<\/P><P>（2）重物的重力：G=mg=0.4kg×10N/kg=4N，<\/P><P>动滑轮的重力：G<SUB>轮<\/SUB>=m<SUB>轮<\/SUB>g=0.1kg×10N/kg=1N，<\/P><P>不计绳重及摩擦时，滑轮组的机械效率η=<img src=\"http://img2.51youpu.com/Public2/pic/393fc69ae14b4cdc82c45f105949949c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/b9a6fd3ecdd240a78fbcdae220099959.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/dd29e1986c5d4499a970df719ee9f5e5.png\">，<\/P><P>由于两装置中物重和动滑轮重均相同，<\/P><P>所以甲、乙两装置的机械效率：<\/P><P>η<SUB>1<\/SUB>=η<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/b0a98d00a3d84631abfa1504aafa2f06.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/088b8d1aa8724c4ca40f25bf0dcadf2d.png\">×100%=80%。<\/P><P>答：（1）若不计绳重、滑轮重及摩擦，两次拉力F<SUB>1<\/SUB>和F<SUB>2<\/SUB>之比为3：2；<\/P><P>（2）若不计绳重及摩擦，甲、乙两装置的机械效率都是80%。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了使用滑轮组时拉力、机械效率的计算，利用好：不计绳重及摩擦时，滑轮组的机械效率η=<img src=\"http://img2.51youpu.com/Public2/pic/6c465f73071f4cafb2cbd85be4edb304.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/c727b18c7d7d43cda655b0a58e636eb5.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/685e07b00fef4c0d99082cd850665b99.png\">。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "解决问题的能力"
+      ],
+      "text": "<P>（2018•呼和浩特）如图是某种电加热器的电路工作原理图。有总控开关S<SUB>1<\/SUB>，温控开关S<SUB>2<\/SUB>，两个加热电阻丝R<SUB>1<\/SUB>，R<SUB>2<\/SUB>（阻值不变）。该加热器部分参数己知：额定电压220V，加热功率为4840W，保温功率为400W．求：<\/P><P>（1）当S<SUB>1<\/SUB>，S<SUB>2<\/SUB>都闭合，该加热器处于<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“加热”或”保温”）状态时，电路中的总电流；<\/P><P>（2）傍晚用电高峰期，若实际电压只有200V时，加热器保温状态下的实际功率。（保留整数）<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/8351fd275aad4110aa1199d4166c4536.png\"><\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.36",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）只闭合S<SUB>1<\/SUB>时，电路为R<SUB>2<\/SUB>的简单电路，电饭煲处于保温状态，S<SUB>1<\/SUB>、S<SUB>2<\/SUB>都闭合时，两发热电阻并联，电饭煲处于加热状态；根据I=<img src=\"http://img2.51youpu.com/Public2/pic/a0cd1eeb31804e81be84117eb54f4b5c.png\">求出电路中的总电流。<\/P><P>（2）保温时电路为R<SUB>2<\/SUB>的简单电路，根据欧姆定律求出R<SUB>2<\/SUB>的阻值；根据P=<img src=\"http://img2.51youpu.com/Public2/pic/3903b84aac3e40e78ab71d4a5b2489ef.png\">求出保温状态下的实际功率。<\/P>",
+      "pointNameList": [
+        "电功率与电压、电流的关系"
+      ],
+      "id": 759656,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）只闭合S<SUB>1<\/SUB>时，电路为R<SUB>2<\/SUB>的简单电路，根据P=<img src=\"http://img2.51youpu.com/Public2/pic/9f846b4a4a194bab9c020082cdeb73b1.png\">可知，功率最小，电饭煲处于保温状态，S<SUB>1<\/SUB>、S<SUB>2<\/SUB>都闭合时，两发热电阻并联，根据P=<img src=\"http://img2.51youpu.com/Public2/pic/55fa87878e194b0f8558dd3c295ad704.png\">可知，功率最大，电饭煲处于加热状态；<\/P><P>由P=UI可得，<\/P><P>电路中的总电流I=<img src=\"http://img2.51youpu.com/Public2/pic/6f9425fa6c70402c80eb5ca0147a41e8.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/91a31dbfb1ca4a1a999266e1423e0fb6.png\">=22A。<\/P><P>（2）保温时电路为R<SUB>2<\/SUB>的简单电路，<\/P><P>由P=<img src=\"http://img2.51youpu.com/Public2/pic/736491647487454f993955718e77dd5b.png\">可得，电阻R<SUB>2<\/SUB>的阻值：<\/P><P>R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/c1064bfb0ac041728bd8785807bc6b6b.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/68b51d839b374118af2acc022e75ddec.png\">=121Ω，<\/P><P>（3）当电路两端电压为200V时，加热器保温状态下的实际功率：<\/P><P>P<SUB>实际<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/81c587a43ea44810bb1279dfd0c1f6b2.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/1fc88d216ff8441fb483baa16a58efec.png\">≈331W。<\/P><P>答：（1）加热；电路中的总电流为22A；<\/P><P>（2）加热器保温状态下的实际功率为331W。<\/P>",
+      "num": "17",
+      "questionNum": 17,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）只闭合S<SUB>1<\/SUB>时，电路为R<SUB>2<\/SUB>的简单电路，根据P=<img src=\"http://img2.51youpu.com/Public2/pic/9f846b4a4a194bab9c020082cdeb73b1.png\">可知，功率最小，电饭煲处于保温状态，S<SUB>1<\/SUB>、S<SUB>2<\/SUB>都闭合时，两发热电阻并联，根据P=<img src=\"http://img2.51youpu.com/Public2/pic/55fa87878e194b0f8558dd3c295ad704.png\">可知，功率最大，电饭煲处于加热状态；<\/P><P>由P=UI可得，<\/P><P>电路中的总电流I=<img src=\"http://img2.51youpu.com/Public2/pic/6f9425fa6c70402c80eb5ca0147a41e8.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/91a31dbfb1ca4a1a999266e1423e0fb6.png\">=22A。<\/P><P>（2）保温时电路为R<SUB>2<\/SUB>的简单电路，<\/P><P>由P=<img src=\"http://img2.51youpu.com/Public2/pic/736491647487454f993955718e77dd5b.png\">可得，电阻R<SUB>2<\/SUB>的阻值：<\/P><P>R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/c1064bfb0ac041728bd8785807bc6b6b.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/68b51d839b374118af2acc022e75ddec.png\">=121Ω，<\/P><P>（3）当电路两端电压为200V时，加热器保温状态下的实际功率：<\/P><P>P<SUB>实际<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/81c587a43ea44810bb1279dfd0c1f6b2.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/1fc88d216ff8441fb483baa16a58efec.png\">≈331W。<\/P><P>答：（1）加热；电路中的总电流为22A；<\/P><P>（2）加热器保温状态下的实际功率为331W。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了并联电路的特点和电功率公式的灵活运用，关键是知道加热功率为两电阻并联；要注意开关闭合时电路中电阻的大小和有用信息的搜集。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）密度为0.5×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>，质量为1kg的正方体木块，静止漂浮在密度为1.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>的水面上，求：<\/P><P>（1）木块浸在水中的体积；<\/P><P>（2）把密度为9.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>，质量未知的正方体铜块轻轻放在正方体木块的中央，过一会儿，其整体静止悬浮在水中时，铜块对木块的压强。<\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.39",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）已知木块重力，利用G=mg计算重力；根据物体漂浮条件可得浮力，然后利用F<SUB>浮<\/SUB>=ρgV<SUB>排<\/SUB>计算木块排开水的体积，即木块浸在水中的体积；<\/P><P>（2）其整体静止悬浮在水中，则铜块和木块的重力之和等于铜块和木块受到的浮力之和，设铜块的边长为L，然后根据G=mg、ρ=<img src=\"http://img2.51youpu.com/Public2/pic/829c7a3b407340f48b135ef6b9ce4aea.png\">和F<SUB>浮<\/SUB>=ρgV<SUB>排<\/SUB>列出等式，求出铜块的边长，进而可求体积，与木块的体积相比较得出受力面积，再利用力的合成求出铜块对木块的压力，最后根据p=<img src=\"http://img2.51youpu.com/Public2/pic/d1d4b9bc25de4c65a0e1e8745b58e72d.png\">计算压强。<\/P>",
+      "pointNameList": [
+        "阿基米德原理"
+      ],
+      "id": 759657,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）木块的重力：<\/P><P>G<SUB>木<\/SUB>=m<SUB>木<\/SUB>g=1kg×10N/kg=10N，<\/P><P>木块漂浮，故所受浮力：<\/P><P>F<SUB>浮木<\/SUB>=G<SUB>木<\/SUB>=10N，<\/P><P>因为F<SUB>浮<\/SUB>=ρgV<SUB>排<\/SUB>，<\/P><P>所以，木块浸在水中的体积：<\/P><P>V<SUB>浸<\/SUB>=V<SUB>排<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/cc5a3bd1fa2145868fd9f5a087050e0c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/099291c64da9428c957e66e0a81684b2.png\">=1×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>（2）根据ρ=<img src=\"http://img2.51youpu.com/Public2/pic/9181ff1141d2428994a3de998097c67a.png\">可得，木块的体积：<\/P><P>V<SUB>木<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/e29d20a732524de48e76cf8eb20a57fb.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/3d8812a0a5f442138d41621075d4e07a.png\">=2×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>设正方体铜块的边长为L，<\/P><P>则正方体铜块的重力：<\/P><P>G<SUB>铜<\/SUB>=m<SUB>铜<\/SUB>g=ρ<SUB>铜<\/SUB>V<SUB>铜<\/SUB>g=ρ<SUB>铜<\/SUB>L<SUP>3<\/SUP>g，<\/P><P>因为其整体静止悬浮在水中。<\/P><P>所以有：G<SUB>铜<\/SUB>+G<SUB>木<\/SUB>=F<SUB>浮铜<\/SUB>+F<SUB>浮木<\/SUB>，<\/P><P>因为物体浸没在水中时，排开液体的体积等于其自身体积，<\/P><P>所以有ρ<SUB>铜<\/SUB>L<SUP>3<\/SUP>g+G<SUB>木<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/a5b2ce39a8384a27b15e23179a4cc52a.png\">+ρ<SUB>水<\/SUB>gV<SUB>木<\/SUB>，<\/P><P>代入数值得：<\/P><P>9.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×L<SUP>3<\/SUP>×10N/kg+10N=1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×L<SUP>3<\/SUP>+1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×2×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>解得，L=0.05m，<\/P><P>则铜块的体积：<\/P><P>V<SUB>铜<\/SUB>=L<SUP>3<\/SUP>=（0.05m）<SUP>3<\/SUP>=0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>，<\/P><P>因为V<SUB>木<\/SUB>＞V<SUB>铜<\/SUB>，<\/P><P>所以，受力面积S=L<SUP>2<\/SUP>=（0.05m）<SUP>2<\/SUP>=2.5×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>2<\/SUP>，<\/P><P>铜块对木块的压力：<\/P><P>F<SUB>压<\/SUB>=G<SUB>铜<\/SUB>﹣F<SUB>浮铜<\/SUB>=9.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>×10N/kg﹣1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>=10N，<\/P><P>所以，铜块对木块的压强：<\/P><P>p=<img src=\"http://img2.51youpu.com/Public2/pic/ac01b4d9ac5f49f9ad1be296e07d2772.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/0d325c91de3f45209ecc1b392d09eb05.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/f6758bc1d94c4ce19ef5021a2112a53a.png\">=4×10<SUP>3<\/SUP>Pa。<\/P><P>答：（1）木块浸在水中的体积1×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>（2）铜块对木块的压强4×10<SUP>3<\/SUP>Pa。<\/P>",
+      "num": "18",
+      "questionNum": 18,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）木块的重力：<\/P><P>G<SUB>木<\/SUB>=m<SUB>木<\/SUB>g=1kg×10N/kg=10N，<\/P><P>木块漂浮，故所受浮力：<\/P><P>F<SUB>浮木<\/SUB>=G<SUB>木<\/SUB>=10N，<\/P><P>因为F<SUB>浮<\/SUB>=ρgV<SUB>排<\/SUB>，<\/P><P>所以，木块浸在水中的体积：<\/P><P>V<SUB>浸<\/SUB>=V<SUB>排<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/cc5a3bd1fa2145868fd9f5a087050e0c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/099291c64da9428c957e66e0a81684b2.png\">=1×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>（2）根据ρ=<img src=\"http://img2.51youpu.com/Public2/pic/9181ff1141d2428994a3de998097c67a.png\">可得，木块的体积：<\/P><P>V<SUB>木<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/e29d20a732524de48e76cf8eb20a57fb.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/3d8812a0a5f442138d41621075d4e07a.png\">=2×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>设正方体铜块的边长为L，<\/P><P>则正方体铜块的重力：<\/P><P>G<SUB>铜<\/SUB>=m<SUB>铜<\/SUB>g=ρ<SUB>铜<\/SUB>V<SUB>铜<\/SUB>g=ρ<SUB>铜<\/SUB>L<SUP>3<\/SUP>g，<\/P><P>因为其整体静止悬浮在水中。<\/P><P>所以有：G<SUB>铜<\/SUB>+G<SUB>木<\/SUB>=F<SUB>浮铜<\/SUB>+F<SUB>浮木<\/SUB>，<\/P><P>因为物体浸没在水中时，排开液体的体积等于其自身体积，<\/P><P>所以有ρ<SUB>铜<\/SUB>L<SUP>3<\/SUP>g+G<SUB>木<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/a5b2ce39a8384a27b15e23179a4cc52a.png\">+ρ<SUB>水<\/SUB>gV<SUB>木<\/SUB>，<\/P><P>代入数值得：<\/P><P>9.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×L<SUP>3<\/SUP>×10N/kg+10N=1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×L<SUP>3<\/SUP>+1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×2×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>解得，L=0.05m，<\/P><P>则铜块的体积：<\/P><P>V<SUB>铜<\/SUB>=L<SUP>3<\/SUP>=（0.05m）<SUP>3<\/SUP>=0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>，<\/P><P>因为V<SUB>木<\/SUB>＞V<SUB>铜<\/SUB>，<\/P><P>所以，受力面积S=L<SUP>2<\/SUP>=（0.05m）<SUP>2<\/SUP>=2.5×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>2<\/SUP>，<\/P><P>铜块对木块的压力：<\/P><P>F<SUB>压<\/SUB>=G<SUB>铜<\/SUB>﹣F<SUB>浮铜<\/SUB>=9.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>×10N/kg﹣1×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×10N/kg×0.125×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>=10N，<\/P><P>所以，铜块对木块的压强：<\/P><P>p=<img src=\"http://img2.51youpu.com/Public2/pic/ac01b4d9ac5f49f9ad1be296e07d2772.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/0d325c91de3f45209ecc1b392d09eb05.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/f6758bc1d94c4ce19ef5021a2112a53a.png\">=4×10<SUP>3<\/SUP>Pa。<\/P><P>答：（1）木块浸在水中的体积1×10<SUP>﹣<\/SUP><SUP>3<\/SUP>m<SUP>3<\/SUP>；<\/P><P>（2）铜块对木块的压强4×10<SUP>3<\/SUP>Pa。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了物体浮沉条件和阿基米德原理、压强公式、密度公式、重力公式的综合应用，利用好漂浮和悬浮的条件以及知道水平面上物体的压力等于自身的重力是关键；根据铜块和木块的重力之和等于铜块和木块受到的浮力之和，利用G=mg、ρ=<img src=\"http://img2.51youpu.com/Public2/pic/fda3c6b982ac4efcbece0741333fab22.png\">和F<SUB>浮<\/SUB>=ρgV<SUB>排<\/SUB>列出等式，求出铜块的边长是此题难点。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "实验能力"
+      ],
+      "text": "<P>（2018•呼和浩特）在玻璃板下放置一个用眼睛看不清楚的小物体，把一滴水滴在小物体正上方的玻璃板上，水滴就是一个放大镜，如果还着不清小物体，再拿一个凸透镜位于水滴正上方，调节镜与水滴间的距离，就能看清玻璃板下的小物体。此时看到的是小物体的<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>的（选填“正立”或“倒立”），<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>的（选填“放大”或“缩小”）<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>像（选填“实”或“虚”），这个组合与<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<\/U>（选填“望远镜”或“显微镜”）的原理相同。<\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.30",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）根据小水滴起到了放大镜的作用和透镜中间和边缘的厚薄判断是凸透镜还是凹透镜，从而确定成像特点。<\/P><P>（2）根据显微镜的工作原理解答此题：显微镜的物镜相当于投影仪的镜头，使物体成倒立、放大的实像；目镜的作用相当于一个放大镜，使物镜成的实像，通过目镜再成一个正立、放大的虚像，经过两次凸透镜的放大作用，使微小的物体放大许多倍。<\/P>",
+      "pointNameList": [
+        "凸透镜成像的应用"
+      ],
+      "id": 759658,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）因为小水滴中间比边缘厚，所以小水滴就相当于凸透镜，小物体在凸透镜的一倍焦距和二倍焦距之间，成倒立、放大的实像；<\/P><P>（2）拿一个放大镜位于水滴的上方，小水滴相当于显微镜的物镜，物体在凸透镜的一倍焦距以内，能成一个倒立、放大的虚像，放大镜相对于显微镜的目镜，它们的共同作用相当于显微镜，所以更能看清玻璃板下的微小物。<\/P><P>故答案为：倒立；放大；虚；显微镜。<\/P>",
+      "num": "19",
+      "questionNum": 19,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）因为小水滴中间比边缘厚，所以小水滴就相当于凸透镜，小物体在凸透镜的一倍焦距和二倍焦距之间，成倒立、放大的实像；<\/P><P>（2）拿一个放大镜位于水滴的上方，小水滴相当于显微镜的物镜，物体在凸透镜的一倍焦距以内，能成一个倒立、放大的虚像，放大镜相对于显微镜的目镜，它们的共同作用相当于显微镜，所以更能看清玻璃板下的微小物。<\/P><P>故答案为：倒立；放大；虚；显微镜。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了显微镜的构造及原理，采用显微镜这个实例作为突破口，对于凸透镜的成像规律是一个较高的应用，了解物镜和目镜的成像原理是解答此题的关键。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力"
+      ],
+      "text": "<P>（2018•呼和浩特）小丽和小亮在学习了“分子热运动”的知识后，知道“一切物质的分子都在不停地做无规则运动”。为此，小丽说：“放在我家衣柜里的樟脑丸过几天就变小甚至消失，就是这个原因。”小亮说：“阳光照到屋子里，有时能看到许多的灰尘在空中飞舞，也是这个道理。”<\/P><P>请分别判断小丽和小亮的说法正确吗？并分别说出理由<\/P>",
+      "answers": [],
+      "score": "4",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.34",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>要解答本题需掌握：一切物质的分子都在不停地做无规则运动，分子比较小，是纳米尺度内的，我们用肉眼是看不到的；我们能够看到的不是分子，是固体的小颗粒。<\/P>",
+      "pointNameList": [
+        "分子的运动"
+      ],
+      "id": 759659,
+      "qexplain": "<p>答：<\/p>\n<p>放在衣柜里的樟脑丸过几天就变小，说明卫生球分子在不停地做无规则的运动；<\/p>\n<p>阳光照到屋子里，有时能看到许多的灰尘在空中飞舞，灰尘是固体小颗粒的运动，不是分子的运动；<\/p>\n<p>所以小丽的说法是正确的，小亮的说法是错误的。<\/p>",
+      "num": "20",
+      "questionNum": 20,
+      "source": "",
+      "serialNum": null,
+      "explain": "<p>答：<\/p>\n<p>放在衣柜里的樟脑丸过几天就变小，说明卫生球分子在不停地做无规则的运动；<\/p>\n<p>阳光照到屋子里，有时能看到许多的灰尘在空中飞舞，灰尘是固体小颗粒的运动，不是分子的运动；<\/p>\n<p>所以小丽的说法是正确的，小亮的说法是错误的。<\/p>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查分子的运动，解答本题我们一定要区分开分子的运动和固体小颗粒的运动。<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "解决问题的能力"
+      ],
+      "text": "<P>（2018•呼和浩特）天然水流蕴藏着巨大的能量，是人类可以利用的重要能源之一。兴建水电站可以把天然水流蕴藏着的巨大能量转换成电能，是水能利用的主要形式。有一处水利工程，在河流上修建了115m高的拦河大坝，如图所示。年平均水流总量为3×10<SUP>10<\/SUP>m<SUP>3<\/SUP>．该水利工程的主要任务包括防洪、发电和航运，在发电方面，年平均发电总量为6×10<SUP>9<\/SUP>kW•h．现安装水轮发电机20台，每台水轮发电机装机容量（即发电功率）为9.26×10<SUP>4<\/SUP>kW．（水的密度为1.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>，g取10N/kg）求：<\/P><P>（1）年平均水流总量所受的重力；<\/P><P>（2）若上、下游水位差为100m，年平均水流总量做的总功及转化为电能的效率；<\/P><P>（3）若每台发电机平均年发电时间为180天，则平均每天约有多少台发电机在工作。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/d86da60d7fc34261b6aed97394e925d7.png\"><\/P>",
+      "answers": [],
+      "score": "6",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.41",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）利用G=mg=ρVg求年平均水流总量所受的重力；<\/P><P>（2）利用W=Gh求年平均水流总量做的总功，知道年平均发电总量，转化为电能的效率等于年平均水流总量做的总功与年平均发电总量之比；<\/P><P>（3）若每台发电机平均年发电时间为180天，可求每天发电量，求出每台水轮发电机发电量，进一步求需要发动机数量。<\/P>",
+      "pointNameList": [
+        "重力的计算"
+      ],
+      "id": 759660,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）年平均水流总量所受的重力：<\/P><P>G=mg=ρVg=1.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×3×10<SUP>10<\/SUP>m<SUP>3<\/SUP>×10N/kg=3×10<SUP>14<\/SUP>N；<\/P><P>（2）年平均水流总量做的总功：<\/P><P>W=Gh=3×10<SUP>14<\/SUP>N×100m=3×10<SUP>16<\/SUP>J，<\/P><P>年平均发电总量：<\/P><P>W<SUB>电<\/SUB>=6×10<SUP>9<\/SUP>kW•h=6×10<SUP>9<\/SUP>×3.6×10<SUP>6<\/SUP>J=2.16×10<SUP>16<\/SUP>J，<\/P><P>转化为电能的效率：<\/P><P>η=<img src=\"http://img2.51youpu.com/Public2/pic/d4ee45603fa1440fafeb54bc6ae75df7.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/f9e7ff3420ee459f8c47aecc29ab3712.png\">×100%=72%；<\/P><P>（3）若每台发电机平均年发电时间为180天，<\/P><P>则每天发电量：<\/P><P>W<SUB>电<\/SUB>′=<img src=\"http://img2.51youpu.com/Public2/pic/00fa7ddc03f54f0096cb9961b80b07ae.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/1cff5a3222cb4a568187357dce493883.png\">×10<SUP>8<\/SUP>kW•h，<\/P><P>每台水轮发电机发电量：<\/P><P>W<SUB>电<\/SUB>″=Pt=9.26×10<SUP>4<\/SUP>kW×24h=2.2224×10<SUP>6<\/SUP>kW•h，<\/P><P>需要发动机数量：<\/P><P>n=<img src=\"http://img2.51youpu.com/Public2/pic/fcfe23b16caa47609490f87d27f27c59.png\">≈15（台）。<\/P><P>答：（1）年平均水流总量所受的重力为3×10<SUP>14<\/SUP>N；<\/P><P>（2）若上、下游水位差为100m，年平均水流总量做的总功、转化为电能的效率分别为3×10<SUP>16<\/SUP>J、72%；<\/P><P>（3）若每台发电机平均年发电时间为180天，则平均每天约有15台发电机在工作。<\/P>",
+      "num": "21",
+      "questionNum": 21,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：<\/P><P>（1）年平均水流总量所受的重力：<\/P><P>G=mg=ρVg=1.0×10<SUP>3<\/SUP>kg/m<SUP>3<\/SUP>×3×10<SUP>10<\/SUP>m<SUP>3<\/SUP>×10N/kg=3×10<SUP>14<\/SUP>N；<\/P><P>（2）年平均水流总量做的总功：<\/P><P>W=Gh=3×10<SUP>14<\/SUP>N×100m=3×10<SUP>16<\/SUP>J，<\/P><P>年平均发电总量：<\/P><P>W<SUB>电<\/SUB>=6×10<SUP>9<\/SUP>kW•h=6×10<SUP>9<\/SUP>×3.6×10<SUP>6<\/SUP>J=2.16×10<SUP>16<\/SUP>J，<\/P><P>转化为电能的效率：<\/P><P>η=<img src=\"http://img2.51youpu.com/Public2/pic/d4ee45603fa1440fafeb54bc6ae75df7.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/f9e7ff3420ee459f8c47aecc29ab3712.png\">×100%=72%；<\/P><P>（3）若每台发电机平均年发电时间为180天，<\/P><P>则每天发电量：<\/P><P>W<SUB>电<\/SUB>′=<img src=\"http://img2.51youpu.com/Public2/pic/00fa7ddc03f54f0096cb9961b80b07ae.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/1cff5a3222cb4a568187357dce493883.png\">×10<SUP>8<\/SUP>kW•h，<\/P><P>每台水轮发电机发电量：<\/P><P>W<SUB>电<\/SUB>″=Pt=9.26×10<SUP>4<\/SUP>kW×24h=2.2224×10<SUP>6<\/SUP>kW•h，<\/P><P>需要发动机数量：<\/P><P>n=<img src=\"http://img2.51youpu.com/Public2/pic/fcfe23b16caa47609490f87d27f27c59.png\">≈15（台）。<\/P><P>答：（1）年平均水流总量所受的重力为3×10<SUP>14<\/SUP>N；<\/P><P>（2）若上、下游水位差为100m，年平均水流总量做的总功、转化为电能的效率分别为3×10<SUP>16<\/SUP>J、72%；<\/P><P>（3）若每台发电机平均年发电时间为180天，则平均每天约有15台发电机在工作。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题为力学和电学综合题，考查了重力公式、密度公式、功的公式、效率公式的应用，由于数字较大，要细心，易错题！<\/P>"
+    },
+    {
+      "abilityNameList": [
+        "理解能力",
+        "解决问题的能力"
+      ],
+      "text": "<P>（2018•呼和浩特）体感器的可以把力学物理量转化成电学信号，然后通过相互之间的函数关系，直接引用力的大小。测量压力大小的压力传感器，工作原理如图所示，其中M、N均为绝缘材料，M、N间有可收缩的导线（电阻大小不计），弹簧上端和滑动变阻器R<SUB>2<\/SUB>的滑片P固定在一起，电源电压恒为12V，已知压力F的大小与R<SUB>2<\/SUB>的阻值大小成正比例关系。闭合开关S，压力F<SUB>0<\/SUB>=0时，滑片P在最上端；压力F<SUB>1<\/SUB>=1N时，电流表示数为1A，电压示数为3V，当滑片P滑至最下端时，电压表示数为7.5V．求：<\/P><P>（1）定值电阻R<SUB>1<\/SUB>的大小；压力F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比k；<\/P><P>（2）当滑片P滑至最下端时，压力F<SUB>2<\/SUB>的大小；<\/P><P>（3）压力F的大小与电压表示数之间的函数关系表达式。<\/P><P><img src=\"http://img2.51youpu.com/Public2/pic/38fb1b4782e842d486e2f7c7d6681078.png\"><\/P>",
+      "answers": [],
+      "score": "6",
+      "spenttime": 100,
+      "qtype": 4,
+      "difficulty": "0.50",
+      "thoughtNameList": [],
+      "analysis": "<P><FONT color=\"0000FF\"><\/FONT>（1）由图知，两电阻串联，电压表测R<SUB>2<\/SUB>两端电压，电流表测电路中电流，电流表示数为1A，电压表示数为3V，由串联电路特点和欧姆定律可计算R<SUB>1<\/SUB>的阻值；<\/P><P>再计算出压力1N时，变阻器连入电路的阻值，根据压力F的大小与R<SUB>2<\/SUB>的阻值大小成正比例关系可得F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比；<\/P><P>（2）当滑片P滑至最下端时，电压表示数为7.5V，由串联电路特点和欧姆定律计算此时R<SUB>2<\/SUB>连入电路的阻值，由压力F的大小与R<SUB>2<\/SUB>的阻值大小成正比例关系计算压力F<SUB>2<\/SUB>的大小；<\/P><P>（3）由F与R<SUB>2<\/SUB>的关系式表示出R<SUB>2<\/SUB>，由串联电路特点和欧姆定律表示电压表示数，从而得到F的大小与电压表示数之间的函数关系表达式。<\/P>",
+      "pointNameList": [
+        "欧姆定律的应用"
+      ],
+      "id": 759661,
+      "qexplain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）由图可知，R<SUB>1<\/SUB>、R<SUB>2<\/SUB>串联，电压表测R<SUB>2<\/SUB>两端电压，电流表测电路中电流，<\/P><P>当F<SUB>1<\/SUB>=1N时，电流表示数为1A，电压数为3V，由串联电路特点可知，此时U<SUB>1<\/SUB>=U﹣U<SUB>2<\/SUB>=12V﹣3V=9V，并且：I<SUB>1<\/SUB>=I<SUB>2<\/SUB>=1A，<\/P><P>由欧姆定律可得，R<SUB>1<\/SUB>的阻值：R<SUB>1<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/378223685e2e48139194165b18179faf.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/3235ba1bc7a04947a2e9ee31003ba5ea.png\">=9Ω；<\/P><P>此时R<SUB>2<\/SUB>连入电路的阻值：R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/5be61079fcbb4a00a0e58d777f79f112.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/ee8e840d62b248c3ba8f622d47464436.png\">=3Ω，<\/P><P>所以压力F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比：k=<img src=\"http://img2.51youpu.com/Public2/pic/12a6f531219941d68b63f21199d8ff0c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/be51c12b25724d29b6d229f97f49803c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/884d74106f904a4fb774ff26e3d62111.png\">N/Ω，<\/P><P>（2）当滑片P滑至最下端时，变阻器连入阻值最大，电压表示数为7.5V，<\/P><P>此时电路中电流：I'=I<SUB>2<\/SUB>′=I<SUB>1<\/SUB>′=<img src=\"http://img2.51youpu.com/Public2/pic/e8301e09ebc5423d9d30d8c05d870a19.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/91880d96215a466b8fbcafc9e95f8732.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/26e04a72222c444ba8f0f3252bb5f890.png\">=0.5A，<\/P><P>所以R<SUB>2<\/SUB>的最大值：R<SUB>2<\/SUB><SUB>最大<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/2ad41d5ff175407cbc34c1773faa53a7.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/45a93684c9f94b70b708a6efc49b8931.png\">=15Ω，<\/P><P>因为压力F的大小与R<SUB>2<\/SUB>的阻值大小成正比例关系，即：F=kR<SUB>2<\/SUB>，<\/P><P>所以压力F<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/32ec8b5f7402409382bb0b7ac5bca743.png\">N/Ω×R<SUB>2<\/SUB><SUB>最大<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/4604f2e417e74f658a3287cc8245465f.png\">N/Ω×15Ω=5N；<\/P><P>（3）由F=kR<SUB>2<\/SUB>有：R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/d091000de62243f6982265aa6923d4ce.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/03619e034bd24e5fbd998694697910ec.png\">，<\/P><P>串联电路特点和欧姆定律表示电压表示数：<\/P><P>U<SUB>V<\/SUB>=IR<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/24cb49977b4c49748d5c38b5b41ddc63.png\">•R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/87fb810d6b254c1e86eb21631cd60fb3.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/47f3190a09c74f428143671395394ea8.png\">，<\/P><P>化简可得：F=<img src=\"http://img2.51youpu.com/Public2/pic/023aff11450a4d2888d39027c62195de.png\">（N）。<\/P><P>答：（1）定值电阻R<SUB>1<\/SUB>为9Ω；压力F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比k为<img src=\"http://img2.51youpu.com/Public2/pic/03f5720c9bde4d378a370ab722f3b717.png\">N/Ω；<\/P><P>（2）当滑片P滑至最下端时，压力F<SUB>2<\/SUB>为5N；<\/P><P>（3）压力F的大小与电压表示数之间的函数关系表达式为F=<img src=\"http://img2.51youpu.com/Public2/pic/36a9cf36e2214b3fbdef1bb5e514353b.png\">（N）。<\/P>",
+      "num": "22",
+      "questionNum": 22,
+      "source": "",
+      "serialNum": null,
+      "explain": "<P><FONT color=\"0000FF\"><\/FONT>解：（1）由图可知，R<SUB>1<\/SUB>、R<SUB>2<\/SUB>串联，电压表测R<SUB>2<\/SUB>两端电压，电流表测电路中电流，<\/P><P>当F<SUB>1<\/SUB>=1N时，电流表示数为1A，电压数为3V，由串联电路特点可知，此时U<SUB>1<\/SUB>=U﹣U<SUB>2<\/SUB>=12V﹣3V=9V，并且：I<SUB>1<\/SUB>=I<SUB>2<\/SUB>=1A，<\/P><P>由欧姆定律可得，R<SUB>1<\/SUB>的阻值：R<SUB>1<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/378223685e2e48139194165b18179faf.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/3235ba1bc7a04947a2e9ee31003ba5ea.png\">=9Ω；<\/P><P>此时R<SUB>2<\/SUB>连入电路的阻值：R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/5be61079fcbb4a00a0e58d777f79f112.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/ee8e840d62b248c3ba8f622d47464436.png\">=3Ω，<\/P><P>所以压力F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比：k=<img src=\"http://img2.51youpu.com/Public2/pic/12a6f531219941d68b63f21199d8ff0c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/be51c12b25724d29b6d229f97f49803c.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/884d74106f904a4fb774ff26e3d62111.png\">N/Ω，<\/P><P>（2）当滑片P滑至最下端时，变阻器连入阻值最大，电压表示数为7.5V，<\/P><P>此时电路中电流：I'=I<SUB>2<\/SUB>′=I<SUB>1<\/SUB>′=<img src=\"http://img2.51youpu.com/Public2/pic/e8301e09ebc5423d9d30d8c05d870a19.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/91880d96215a466b8fbcafc9e95f8732.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/26e04a72222c444ba8f0f3252bb5f890.png\">=0.5A，<\/P><P>所以R<SUB>2<\/SUB>的最大值：R<SUB>2<\/SUB><SUB>最大<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/2ad41d5ff175407cbc34c1773faa53a7.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/45a93684c9f94b70b708a6efc49b8931.png\">=15Ω，<\/P><P>因为压力F的大小与R<SUB>2<\/SUB>的阻值大小成正比例关系，即：F=kR<SUB>2<\/SUB>，<\/P><P>所以压力F<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/32ec8b5f7402409382bb0b7ac5bca743.png\">N/Ω×R<SUB>2<\/SUB><SUB>最大<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/4604f2e417e74f658a3287cc8245465f.png\">N/Ω×15Ω=5N；<\/P><P>（3）由F=kR<SUB>2<\/SUB>有：R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/d091000de62243f6982265aa6923d4ce.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/03619e034bd24e5fbd998694697910ec.png\">，<\/P><P>串联电路特点和欧姆定律表示电压表示数：<\/P><P>U<SUB>V<\/SUB>=IR<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/24cb49977b4c49748d5c38b5b41ddc63.png\">•R<SUB>2<\/SUB>=<img src=\"http://img2.51youpu.com/Public2/pic/87fb810d6b254c1e86eb21631cd60fb3.png\">=<img src=\"http://img2.51youpu.com/Public2/pic/47f3190a09c74f428143671395394ea8.png\">，<\/P><P>化简可得：F=<img src=\"http://img2.51youpu.com/Public2/pic/023aff11450a4d2888d39027c62195de.png\">（N）。<\/P><P>答：（1）定值电阻R<SUB>1<\/SUB>为9Ω；压力F<SUB>1<\/SUB>与R<SUB>2<\/SUB>阻值之比k为<img src=\"http://img2.51youpu.com/Public2/pic/03f5720c9bde4d378a370ab722f3b717.png\">N/Ω；<\/P><P>（2）当滑片P滑至最下端时，压力F<SUB>2<\/SUB>为5N；<\/P><P>（3）压力F的大小与电压表示数之间的函数关系表达式为F=<img src=\"http://img2.51youpu.com/Public2/pic/36a9cf36e2214b3fbdef1bb5e514353b.png\">（N）。<\/P>",
+      "comments": "<P><FONT color=\"0000FF\"><\/FONT>本题考查了串联电路特点和欧姆定律公式的应用，关键是根据题意得到F与R<SUB>2<\/SUB>的表达式。<\/P>"
+    }
+  ],
+  "errmsg": "",
+  "semester": 2
+}
