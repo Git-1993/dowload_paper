@@ -434,7 +434,73 @@ public class TestFreemarker {
         Map<String, Object> map = (Map<String, Object>) JSONObject.toBean(jsonObject,Map.class);
         Set<String> set = map.keySet();
         for (String s : set) {
-            System.out.println("key:"+s+"value:"+map.get(s));
+            System.out.println("key:"+s+"----------value:"+map.get(s));
+        }
+        //创建一个合适的Configration对象
+        Configuration configuration = new Configuration();
+        try {
+            configuration.setDirectoryForTemplateLoading(new File("C:\\MingrenProject\\dowload_paper\\src\\main\\resources\\templates"));
+            Template template = configuration.getTemplate("temp.html");
+            configuration.setObjectWrapper(new DefaultObjectWrapper());
+            configuration.setDefaultEncoding("UTF-8");   //这个一定要设置，不然在生成的页面中 会乱码
+            //获取或创建一个模版。
+            Writer writer  = new OutputStreamWriter(new FileOutputStream("C:\\MingrenProject\\dowload_paper\\src\\main\\resources\\templates\\shijuan.html"),"UTF-8");
+            template.process(map, writer);
+
+            System.out.println("恭喜，生成成功~~");
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (TemplateException e) {
+            e.printStackTrace();
+        }
+
+    }
+    @Test
+    public void testgenerateHtml(){
+        //JSONObject转成对象
+        File file = new File("C:\\file\\paperInfo.json");
+        FileReader reader = null;//定义一个fileReader对象，用来初始化BufferedReader
+        try {
+            reader = new FileReader(file);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+        BufferedReader bReader = new BufferedReader(reader);//new一个BufferedReader对象，将文件内容读取到缓存
+        StringBuilder sb = new StringBuilder();//定义一个字符串缓存，将字符串存放缓存中
+        String s = "";
+        try {
+            while ((s =bReader.readLine()) != null) {//逐行读取文件内容，不读取换行符和末尾的空格
+                sb.append(s + "\n");//将读取的字符串添加换行符后累加存放在缓存中
+                System.out.println(s);
+            }
+            bReader.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        String json = sb.toString();
+        //json字符串转成对象
+        JSONObject jsonObject = JSONObject.fromObject(json);
+        Map<String, Object> map = (Map<String, Object>) JSONObject.toBean(jsonObject,Map.class);
+        Set<String> set = map.keySet();
+        for (String s1 : set) {
+            System.out.println("key:"+s1+"----------value:"+map.get(s1));
+        }
+        //创建一个合适的Configration对象
+        Configuration configuration = new Configuration();
+        try {
+            configuration.setDirectoryForTemplateLoading(new File("C:\\file"));
+            Template template = configuration.getTemplate("temp.html");
+            configuration.setObjectWrapper(new DefaultObjectWrapper());
+            configuration.setDefaultEncoding("UTF-8");   //这个一定要设置，不然在生成的页面中 会乱码
+            //获取或创建一个模版。
+            Writer writer  = new OutputStreamWriter(new FileOutputStream("C:\\file\\shijuan.html"),"UTF-8");
+            template.process(map, writer);
+
+            System.out.println("恭喜，生成成功~~");
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (TemplateException e) {
+            e.printStackTrace();
         }
     }
     @Test

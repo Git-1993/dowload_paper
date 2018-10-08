@@ -1,6 +1,6 @@
-<html lang="en">
+﻿<html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
     <title>Title</title>
     <style>
         * {
@@ -83,9 +83,9 @@
 </head>
 <body>
 <div class="wrap">
-    <div class="paperTitle paddingTop center">${name}</div>
-    <div class="paperType paddingTop center">${source}</div>
-    <div class="info paddingTop center">
+    <div class="paperTitle" align="center" style="text-align:center">${name}</div>
+    <div class="paperType paddingTop" align="center">${source}</div>
+    <div class="info paddingTop center" align="center">
         学校:<span
             class="schoolName">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         姓名:<span
@@ -94,7 +94,7 @@
         考号:<span
             class="testNumber">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     </div>
-    <div class="itemInfoWrap paddingTop center">
+    <div class="itemInfoWrap paddingTop center" align="center">
         <table border="1" class="itemInfo">
             <tbody>
             <tr>
@@ -120,29 +120,50 @@
         <p>2. 请将答案正确填写在答题卡上</p>
     </div>
     <div class="content">
-        <div class="page1">
-        <#list resultlist as result>
-        <div class="paddingTop">${result.num}.<span>${result.text}</span>
-        </div>
-            <#list result.answers as answer>
-                <div class="itemOption">
-                    <span>
-                    <#if answer_index == 0>
-                        A、
-                    </#if>
-                        <#if answer_index == 1>
-                        B、
-                    </#if>
-                        <#if answer_index == 2>
-                        C、
-                    </#if>
-                        <#if answer_index == 3>
-                        D、
-                    </#if>
-                    <span>${answer.answertext}</span></span></div>
-            </#list>
+        <div class="page1">	
+		<div class="paperType" align="center" >第一卷（选择题）</div>	
+		<#list resultlist as result>
+			
+			<#if result.qtype == 1>						
+				<div class="paddingTop">${result.num}.<span>${result.text}</span></div>
+					<#list result.answers as answer>
+						<div class="itemOption">
+							<span>
+							<#if answer_index == 0>
+								A、
+							</#if>
+								<#if answer_index == 1>
+								B、
+							</#if>
+								<#if answer_index == 2>
+								C、
+							</#if>
+								<#if answer_index == 3>
+								D、
+							</#if>
+							<span>${answer.answertext}</span></span>
+						</div>	
+					</#list>							
+			</#if>
         </#list>
-    </div></div>
+		<span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+		&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+		宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;
+		mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+		mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+		mso-bidi-language:AR-SA"><br clear="all" style="mso-special-character:line-break;
+		page-break-before:always">
+		</span>		
+	<div class="paperType" align="center" >第二卷（非选择题）</div>	
+        <#list resultlist as result>
+			
+			<#if result.qtype != 1>     
+						
+				<div class="paddingTop">${result.num}.<span>${result.text}</span></div>											
+			</#if>
+        </#list>
+		</div>
+	</div>
 </div>
 </body>
 </html>
